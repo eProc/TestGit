@@ -18,7 +18,8 @@ namespace TestGit
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("my first git");
+            MessageBox.Show("my first git BAD BAD");
+            MessageBox.Show("second line");
         }
     }
 }
