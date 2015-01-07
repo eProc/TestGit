@@ -1,0 +1,8 @@
+D:\GitHub\TestGit\TestGit\bin\Debug\TestGit.exe
+D:\GitHub\TestGit\TestGit\bin\Debug\TestGit.pdb
+D:\GitHub\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+D:\GitHub\TestGit\TestGit\obj\Debug\TestGit.Form1.resources
+D:\GitHub\TestGit\TestGit\obj\Debug\TestGit.Properties.Resources.resources
+D:\GitHub\TestGit\TestGit\obj\Debug\TestGit.csproj.GenerateResource.Cache
+D:\GitHub\TestGit\TestGit\obj\Debug\TestGit.exe
+D:\GitHub\TestGit\TestGit\obj\Debug\TestGit.pdb
